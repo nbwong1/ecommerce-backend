@@ -17,7 +17,7 @@ The user can clone the repository from github and then install Node.js, Express.
 
 ## Usage
 Create the schema from the MySQL shell:
-
+![Schema from MySQL Shell](https://drive.google.com/file/d/1Xy8loSY_rqLrGF87CHPQ82Ye_QUk0dvC/view)
 
 Seed the database from the command line:
 
