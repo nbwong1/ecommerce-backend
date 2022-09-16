@@ -16,40 +16,6 @@ The refactoring of e-commerce backend code is to give me the opportunity to unde
 The user can clone the repository from github and then install Node.js, Express.js, and Sequelize.js. Once those packages have been installed through terminal/command prompt, the user can then source the database information, seed data, and access the files using a third party like Insomnia. 
 
 ## Usage
-Create the schema from the MySQL shell:
-![Schema from MySQL Shell](https://drive.google.com/file/d/1Xy8loSY_rqLrGF87CHPQ82Ye_QUk0dvC/view)
-
-Seed the database from the command line:
-
-
-Start the application’s server:
-
-
-GET route for all categories (in Insomnia):
-
-
-GET route for all products (in Insomnia): 
-
-
-GET route for all tags (in Insomnia):
-
-
-GET route for a single category (in Insomnia):
-
-
-GET route for a single product (in Insomnia):
-
-
-GET route for a single tag (in Insomnia):
-
-
-POST, PUT, and DELETE route for categories (in Insomnia):
-
-
-POST, PUT, and DELETE route for products (in Insomnia):
-
-
-POST, PUT, and DELETE route for tags (in Insomnia):
 
 
 ## Licenses
